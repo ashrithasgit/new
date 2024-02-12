@@ -1,14 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+jsjdjdjdhghydgjhjhkjtyiiirrrrrgdgdgdhello
 rrtuigdgdgdhello
-=======
+
 rtytutyiiirrrrrgdgdgdhello
->>>>>>> two
-=======
-hjhjj<<<<<<< HEAD
+
+
+hjhjj
 rtytutyiiirrrrrgdgdgdhello
-=======
+
 dhghydgjhjhkjtyiiirrrrrgdgdgdhello
->>>>>>> three
->>>>>>> two
+
 hhhhhello

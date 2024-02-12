@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 rrtuigdgdgdhello
+=======
+rtytutyiiirrrrrgdgdgdhello
+>>>>>>> two
 hhhhhello

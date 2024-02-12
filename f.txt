@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 rtytutyiiirrrrrgdgdgdhello
+=======
+dhghydgjhjhkjtyiiirrrrrgdgdgdhello
+>>>>>>> three
 hhhhhello
